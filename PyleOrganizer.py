@@ -1,7 +1,6 @@
 import re, os, datetime as dt, time
 """
 Name: Isaac (IzzySWE)
-Student Number: 200609053
 Date: 12/02/2024
 
 Project: File Organizer
